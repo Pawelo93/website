@@ -38371,7 +38371,7 @@ return B.Td(H.b([T.hj(C.bc,H.b([new T.bE(C.nY,T.fM(H.b([new T.bE(C.o1,new M.mq(t
 GX:function(a){this.d.fT(600,C.bf,P.cm(0,500))}}
 S.m_.prototype={
 L:function(a){var t=null
-return T.fM(H.b([L.eu("My Let's flutter series on Medium",A.cL(t,t,t,t,t,t,t,t,t,t,t,20,t,C.b6,t,t,!0,t,t,t,t,t,t)),new T.bE(C.jH,D.u9(t,U.T0(t,new L.hI("lf1.png"),350),C.a5,!1,t,t,t,t,t,t,t,t,t,t,new S.C7(this),t,t,t,t),t)],u.E),C.aG,C.b8,C.ag)},
+return T.fM(H.b([L.eu("My Let's flutter series on Medium",A.cL(t,t,t,t,t,t,t,t,t,t,t,20,t,C.b6,t,t,!0,t,t,t,t,t,t)),new T.bE(C.jH,D.u9(t,U.T0(t,new L.hI("assets/lf1.png"),350),C.a5,!1,t,t,t,t,t,t,t,t,t,t,new S.C7(this),t,t,t,t),t)],u.E),C.aG,C.b8,C.ag)},
 iP:function(a){return this.FK(a)},
 FK:function(a){var t=0,s=P.ac(u.z)
 var $async$iP=P.a7(function(b,c){if(b===1)return P.a9(c,s)
@@ -38408,13 +38408,13 @@ M.mq.prototype={
 L:function(a){return T.fM(H.b([new M.v6(null),new M.tx(null)],u.E),C.aG,C.b8,C.ag)}}
 M.v6.prototype={
 L:function(a){var t=null,s=u.E
-return T.TR(H.b([M.eK(t,t,t,t,S.jl(t,t,t,t,t,new X.to(new L.hI("avatar.jpg"),C.j7),C.aE),80,t,t,80),new T.bE(C.o0,T.fM(H.b([L.eu("Hello I'm",A.cL(t,t,$.PP(),t,t,t,t,t,t,t,t,18,t,C.b6,t,t,!0,t,t,t,t,t,t)),new T.bE(C.jI,L.eu("Pawe\u0142 Antonik",A.cL(t,t,t,t,t,t,t,t,t,t,t,22,t,C.b6,t,t,!0,t,t,t,t,t,t)),t),new T.bE(C.jI,L.eu("Mobile developer",A.cL(t,t,t,t,t,t,t,t,t,t,t,16,t,t,t,t,!0,t,t,t,t,t,t)),t)],s),C.aG,C.b8,C.ag),t)],s),C.aG,C.b8,C.ag)}}
+return T.TR(H.b([M.eK(t,t,t,t,S.jl(t,t,t,t,t,new X.to(new L.hI("assets/avatar.jpg"),C.j7),C.aE),80,t,t,80),new T.bE(C.o0,T.fM(H.b([L.eu("Hello I'm",A.cL(t,t,$.PP(),t,t,t,t,t,t,t,t,18,t,C.b6,t,t,!0,t,t,t,t,t,t)),new T.bE(C.jI,L.eu("Pawe\u0142 Antonik",A.cL(t,t,t,t,t,t,t,t,t,t,t,22,t,C.b6,t,t,!0,t,t,t,t,t,t)),t),new T.bE(C.jI,L.eu("Mobile developer",A.cL(t,t,t,t,t,t,t,t,t,t,t,16,t,t,t,t,!0,t,t,t,t,t,t)),t)],s),C.aG,C.b8,C.ag),t)],s),C.aG,C.b8,C.ag)}}
 M.tx.prototype={
 L:function(a){var t=null
 return new T.bE(C.jG,M.eK(t,L.eu("Have been programming for 8 years. I work as android dev for 6 years now and Flutter makes me happy for more than a year!        I also love heavy music and racing.",A.cL(t,t,t,t,t,t,t,t,t,t,t,18,t,t,t,t,!0,t,t,t,t,t,t)),t,t,t,t,t,t,350),t)}}
 G.o_.prototype={
 L:function(a){var t=null,s=new P.aR(15,15)
-return T.hj(C.bc,H.b([U.T0(500,new L.hI("mocup.png"),240),T.I0(t,T.R6(T.U3(T.Ss(new K.bg(s,s,s,s),new G.mm(this.c,t)),0.7),new P.t(-35,-68)),635,t,t,t,t,310)],u.E),C.ba)}}
+return T.hj(C.bc,H.b([U.T0(500,new L.hI("assets/mocup.png"),240),T.I0(t,T.R6(T.U3(T.Ss(new K.bg(s,s,s,s),new G.mm(this.c,t)),0.7),new P.t(-35,-68)),635,t,t,t,t,310)],u.E),C.ba)}}
 G.mm.prototype={
 aM:function(){return new G.yu(this.c,null,C.m)}}
 G.yu.prototype={
