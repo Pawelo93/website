@@ -27,7 +27,7 @@ class NameRow extends StatelessWidget {
             shape: BoxShape.circle,
             image: DecorationImage(
               fit: BoxFit.fill,
-              image: AssetImage('avatar.jpg'),
+              image: AssetImage('assets/avatar.jpg'),
             ),
           ),
         ),

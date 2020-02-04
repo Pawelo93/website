@@ -23,7 +23,7 @@ class ArticlesSection extends StatelessWidget {
             },
             child: Image(
               width: 350,
-              image: AssetImage('lf1.png'),
+              image: AssetImage('assets/lf1.png'),
             ),
           ),
         )

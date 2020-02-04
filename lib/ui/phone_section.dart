@@ -13,7 +13,7 @@ class PhoneSection extends StatelessWidget {
         Image(
           width: 240,
           height: 500,
-          image: AssetImage('mocup.png'),
+          image: AssetImage('assets/mocup.png'),
         ),
         Positioned(
           width: 310,
